@@ -1,0 +1,197 @@
+KC_NO                , XXXXXXX                          , -------
+KC_TRANSPARENT       , KC_TRNS|_______                  , Transparent
+KC_A                 ,                                  , a/A                         
+KC_B                 ,                                  , b/B                         
+KC_C                 ,                                  , c/C                         
+KC_D                 ,                                  , d/D                         
+KC_E                 ,                                  , e/E                         
+KC_F                 ,                                  , f/F                         
+KC_G                 ,                                  , g/G                         
+KC_H                 ,                                  , h/H                         
+KC_I                 ,                                  , i/I                         
+KC_J                 ,                                  , j/J                         
+KC_K                 ,                                  , k/K                         
+KC_L                 ,                                  , l/L                         
+KC_M                 ,                                  , m/M                         
+KC_N                 ,                                  , n/N                         
+KC_O                 ,                                  , o/O                         
+KC_P                 ,                                  , p/P                         
+KC_Q                 ,                                  , q/Q                         
+KC_R                 ,                                  , r/R                         
+KC_S                 ,                                  , s/S                         
+KC_T                 ,                                  , t/T                         
+KC_U                 ,                                  , u/U                         
+KC_V                 ,                                  , v/V                         
+KC_W                 ,                                  , w/W                         
+KC_X                 ,                                  , x/X                         
+KC_Y                 ,                                  , y/Y                         
+KC_Z                 ,                                  , z/Z                         
+KC_1                 ,                                  , 1/!                         
+KC_2                 ,                                  , 2/@                         
+KC_3                 ,                                  , 3/#                         
+KC_4                 ,                                  , 4/$                         
+KC_5                 ,                                  , 5/%                         
+KC_6                 ,                                  , 6/^                         
+KC_7                 ,                                  , 7/&                         
+KC_8                 ,                                  , 8/*                         
+KC_9                 ,                                  , 9/(                         
+KC_0                 ,                                  , 0/)                         
+KC_ENTER             , KC_ENT                           , Return 
+KC_ESCAPE            , KC_ESC                           , Escape                              
+KC_BACKSPACE         , KC_BSPC                          , Delete                
+KC_TAB               ,                                  , Tab                                 
+KC_SPACE             , KC_SPC                           , Spacebar                            
+KC_MINUS             , KC_MINS                          , -/_                         
+KC_EQUAL             , KC_EQL                           , =/+                         
+KC_LEFT_BRACKET      , KC_LBRC                          , [/{                         
+KC_RIGHT_BRACKET     , KC_RBRC                          , ]/}                         
+KC_BACKSLASH         , KC_BSLS                          , \/|                       
+KC_NONUS_HASH        , KC_NUHS                          , #/~                  
+KC_SEMICOLON         , KC_SCLN                          , ;/:                         
+KC_QUOTE             , KC_QUOT                          , '/"                         
+KC_GRAVE             , KC_GRV                           , <code>&#96;</code>/~          
+KC_COMMA             , KC_COMM                          , ,/<                         
+KC_DOT               ,                                  , ./>                         
+KC_SLASH             , KC_SLSH                          , //?                         
+KC_CAPS_LOCK         , KC_CAPS                          , Caps Lock                           
+KC_F1                ,                                  , F1                                  
+KC_F2                ,                                  , F2                                  
+KC_F3                ,                                  , F3                                  
+KC_F4                ,                                  , F4                                  
+KC_F5                ,                                  , F5                                  
+KC_F6                ,                                  , F6                                  
+KC_F7                ,                                  , F7                                  
+KC_F8                ,                                  , F8                                  
+KC_F9                ,                                  , F9                                  
+KC_F10               ,                                  , F10                                 
+KC_F11               ,                                  , F11                                 
+KC_F12               ,                                  , F12                                 
+KC_PRINT_SCREEN      , KC_PSCR                          , Print Screen                        
+KC_SCROLL_LOCK       , KC_SCRL|KC_BRMD                  , Scroll Lock
+KC_PAUSE             , KC_PAUS|KC_BRK|KC_BRMU           , Pause
+KC_INSERT            , KC_INS                           , Insert                              
+KC_HOME              ,                                  , Home                                
+KC_PAGE_UP           , KC_PGUP                          , Page Up                             
+KC_DELETE            , KC_DEL                           , Forward Delete                      
+KC_END               ,                                  , End                                 
+KC_PAGE_DOWN         , KC_PGDN                          , Page Down                           
+KC_RIGHT             , KC_RGHT                          , →
+KC_LEFT              ,                                  , ←
+KC_DOWN              ,                                  , ↓                        
+KC_UP                ,                                  , ↑  
+KC_NUM_LOCK          , KC_NUM                           , KP Num Lock         
+KC_KP_SLASH          , KC_PSLS                          , KP /                          
+KC_KP_ASTERISK       , KC_PAST                          , KP *                          
+KC_KP_MINUS          , KC_PMNS                          , KP -                          
+KC_KP_PLUS           , KC_PPLS                          , KP +                          
+KC_KP_ENTER          , KC_PENT                          , KP Enter                        
+KC_KP_1              , KC_P1                            , KP 1 
+KC_KP_2              , KC_P2                            , KP 2 
+KC_KP_3              , KC_P3                            , KP 3 
+KC_KP_4              , KC_P4                            , KP 4 
+KC_KP_5              , KC_P5                            , KP 5 
+KC_KP_6              , KC_P6                            , KP 6 
+KC_KP_7              , KC_P7                            , KP 7 
+KC_KP_8              , KC_P8                            , KP 8 
+KC_KP_9              , KC_P9                            , KP 9 
+KC_KP_0              , KC_P0                            , KP 0 
+KC_KP_DOT            , KC_PDOT                          , KP . 
+KC_NONUS_BACKSLASH   , KC_NUBS                          , Non-US \ 
+KC_APPLICATION       , KC_APP                           , Application
+KC_KB_POWER          ,                                  , System Power                        
+KC_KP_EQUAL          , KC_PEQL                          , KP =                          
+KC_F13               ,                                  , F13                                 
+KC_F14               ,                                  , F14                                 
+KC_F15               ,                                  , F15                                 
+KC_F16               ,                                  , F16                                 
+KC_F17               ,                                  , F17                                 
+KC_F18               ,                                  , F18                                 
+KC_F19               ,                                  , F19                                 
+KC_F20               ,                                  , F20                                 
+KC_F21               ,                                  , F21                                 
+KC_F22               ,                                  , F22                                 
+KC_F23               ,                                  , F23                                 
+KC_F24               ,                                  , F24                                 
+KC_EXECUTE           , KC_EXEC                          , Execute                             
+KC_HELP              ,                                  , Help                                
+KC_MENU              ,                                  , Menu                                
+KC_SELECT            , KC_SLCT                          , Select                              
+KC_STOP              ,                                  , Stop                                
+KC_AGAIN             , KC_AGIN                          , Again                               
+KC_UNDO              ,                                  , Undo                                
+KC_CUT               ,                                  , Cut                                 
+KC_COPY              ,                                  , Copy                                
+KC_PASTE             , KC_PSTE                          , Paste                               
+KC_FIND              ,                                  , Find                                
+KC_KB_MUTE           ,                                  , Mute                                
+KC_KB_VOLUME_UP      ,                                  , Volume Up                           
+KC_KB_VOLUME_DOWN    ,                                  , Volume Down                         
+KC_LOCKING_CAPS_LOCK , KC_LCAP                          , Caps Lock                   
+KC_LOCKING_NUM_LOCK  , KC_LNUM                          , Num Lock                    
+KC_LOCKING_SCROLL_LOCK,KC_LSCR                          , Scroll Lock                 
+KC_KP_COMMA          , KC_PCMM                          , KP ,                           
+KC_KP_EQUAL_AS400    ,                                  , KP =
+KC_INTERNATIONAL_1   , KC_INT1                          , Intl 1                     
+KC_INTERNATIONAL_2   , KC_INT2                          , Intl 2                     
+KC_INTERNATIONAL_3   , KC_INT3                          , Intl 3                     
+KC_INTERNATIONAL_4   , KC_INT4                          , Intl 4                     
+KC_INTERNATIONAL_5   , KC_INT5                          , Intl 5                     
+KC_INTERNATIONAL_6   , KC_INT6                          , Intl 6                     
+KC_INTERNATIONAL_7   , KC_INT7                          , Intl 7                     
+KC_INTERNATIONAL_8   , KC_INT8                          , Intl 8                     
+KC_INTERNATIONAL_9   , KC_INT9                          , Intl 9                     
+KC_LANGUAGE_1        , KC_LNG1                          , Lng 1                          
+KC_LANGUAGE_2        , KC_LNG2                          , Lng 2                          
+KC_LANGUAGE_3        , KC_LNG3                          , Lng 3                          
+KC_LANGUAGE_4        , KC_LNG4                          , Lng 4                          
+KC_LANGUAGE_5        , KC_LNG5                          , Lng 5                          
+KC_LANGUAGE_6        , KC_LNG6                          , Lng 6                          
+KC_LANGUAGE_7        , KC_LNG7                          , Lng 7                          
+KC_LANGUAGE_8        , KC_LNG8                          , Lng 8                          
+KC_LANGUAGE_9        , KC_LNG9                          , Lng 9                          
+KC_ALTERNATE_ERASE   , KC_ERAS                          , Alternate Erase                     
+KC_SYSTEM_REQUEST    , KC_SYRQ                          , SysReq/Attention                    
+KC_CANCEL            , KC_CNCL                          , Cancel                              
+KC_CLEAR             , KC_CLR                           , Clear                               
+KC_PRIOR             , KC_PRIR                          , Prior                               
+KC_RETURN            , KC_RETN                          , Return                              
+KC_SEPARATOR         , KC_SEPR                          , Separator                           
+KC_OUT               ,                                  , Out                                 
+KC_OPER              ,                                  , Oper                                
+KC_CLEAR_AGAIN       , KC_CLAG                          , Clear/Again                         
+KC_CRSEL             , KC_CRSL                          , CrSel/Props                         
+KC_EXSEL             , KC_EXSL                          , ExSel                               
+KC_LEFT_CTRL         , KC_LCTL                          , Left Control                        
+KC_LEFT_SHIFT        , KC_LSFT                          , Left Shift                          
+KC_LEFT_ALT          , KC_LALT|KC_LOPT                  , Left Alt 
+KC_LEFT_GUI          , KC_LGUI|KC_LCMD|KC_LWIN          , Left GUI 
+KC_RIGHT_CTRL        , KC_RCTL                          , Right Control                       
+KC_RIGHT_SHIFT       , KC_RSFT                          , Right Shift                         
+KC_RIGHT_ALT         , KC_RALT|KC_ROPT|KC_ALGR          , Right Alt
+KC_RIGHT_GUI         , KC_RGUI|KC_RCMD|KC_RWIN          , Right GUI 
+KC_SYSTEM_POWER      , KC_PWR                           , Sys Power Down                   
+KC_SYSTEM_SLEEP      , KC_SLEP                          , Sys Sleep                        
+KC_SYSTEM_WAKE       , KC_WAKE                          , Sys Wake                         
+KC_AUDIO_MUTE        , KC_MUTE                          , Mute                                
+KC_AUDIO_VOL_UP      , KC_VOLU                          , Volume Up                           
+KC_AUDIO_VOL_DOWN    , KC_VOLD                          , Volume Down                         
+KC_MEDIA_NEXT_TRACK  , KC_MNXT                          , Next Track                          
+KC_MEDIA_PREV_TRACK  , KC_MPRV                          , Prev Track                      
+KC_MEDIA_STOP        , KC_MSTP                          , Stop Track                          
+KC_MEDIA_PLAY_PAUSE  , KC_MPLY                          , Play Track                    
+KC_MEDIA_SELECT      , KC_MSEL                          , Media Player                 
+KC_MEDIA_EJECT       , KC_EJCT                          , Eject                               
+KC_MAIL              ,                                  , Mail                         
+KC_CALCULATOR        , KC_CALC                          , Calculator                   
+KC_MY_COMPUTER       , KC_MYCM                          , My Computer                  
+KC_WWW_SEARCH        , KC_WSCH                          , Bwsr Search                      
+KC_WWW_HOME          , KC_WHOM                          , Bwsr Home                        
+KC_WWW_BACK          , KC_WBAK                          , Bwsr Back                        
+KC_WWW_FORWARD       , KC_WFWD                          , Bwsr Forward                     
+KC_WWW_STOP          , KC_WSTP                          , Bwsr Stop                        
+KC_WWW_REFRESH       , KC_WREF                          , Bwsr Refresh                     
+KC_WWW_FAVORITES     , KC_WFAV                          , Bwsr Favorites                   
+KC_MEDIA_FAST_FORWARD, KC_MFFD                          , Next Track                          
+KC_MEDIA_REWIND      , KC_MRWD                          , Prev Track                      
+KC_BRIGHTNESS_UP     , KC_BRIU                          , Brightness Up                       
+KC_BRIGHTNESS_DOWN   , KC_BRID                          , Brightness Down                     
